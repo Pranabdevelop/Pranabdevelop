@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I'm a Full Stack Web Developer with a passion for building scalable, efficient, and user-friendly web applications. Here's a bit more about me:<br><br>My Focus:<br><br>🌐 Creating responsive, high-performance websites & apps<br>🧑‍💻 Writing clean, maintainable, and scalable code<br>📚 Continuous learning and staying up-to-date with new technologies<br>Interests:<br><br>⚡ Exploring new frameworks and libraries<br>🌍 Working on open-source projects<br>🧩 Solving complex coding challenges<br>🎨 UI/UX design principles<br>Collaboration:<br><br>🤝 Always open to collaborating on interesting projects<br>👥 Enjoy pair programming and brainstorming with others<br>🌱 Actively contribute to open-source communities<br>
+Hi! I'm a Full Stack Web Developer with a passion for building scalable, efficient, and user-friendly web applications. Here's a bit more about me:<br><br>My Focus:<br><br>🌐 Creating responsive, high-performance websites & apps<br>🧑‍💻 Writing clean, maintainable, and scalable code<br>📚 Continuous learning and staying up-to-date with new technologies<br>Interests:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br><br>⚡ Exploring new frameworks and libraries<br>🌍 Working on open-source projects<br>🧩 Solving complex coding challenges<br>🎨 UI/UX design principles<br>Collaboration:<br><br>🤝 Always open to collaborating on interesting projects<br>👥 Enjoy pair programming and brainstorming with others<br>🌱 Actively contribute to open-source communities<br>
 
 
 ## 🌐 Socials:
